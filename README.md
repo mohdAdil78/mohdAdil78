@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DBMS**
 
-- 👯 I’m looking to collaborate on **Dual axis solar tracking system**
+- 👯 I’m looking to collaborate on ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
